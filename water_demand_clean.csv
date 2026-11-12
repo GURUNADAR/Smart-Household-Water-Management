@@ -1,0 +1,220 @@
+household_size,dwelling_type,rooms,washing_machine,garden,water_source,daily_litres
+4,Independent House,3.0,0,0,Municipal Piped,829.7872340425532
+3,Independent House,3.0,1,0,Municipal Piped,1136.986301369863
+4,Independent House,4.0,0,0,Municipal Piped,459.4594594594595
+4,Apartment,4.0,0,0,Municipal Piped,1366.6666666666667
+5,Independent House,4.0,0,0,Municipal Piped,409.6385542168675
+4,Independent House,2.0,0,0,Municipal Piped,518.5185185185185
+3,Apartment,3.0,0,1,Municipal Piped,1906.9767441860465
+3,Independent House,3.0,0,0,Municipal Piped,413.7931034482759
+4,Independent House,1.0,0,0,Municipal Piped,746.6666666666666
+5,Independent House,2.0,0,0,Municipal Piped,493.1506849315069
+5,Independent House,2.0,0,0,Municipal Piped,626.5060240963855
+4,Independent House,4.0,0,0,Municipal Piped,552.6315789473684
+5,Apartment,3.0,1,0,Municipal Piped,729.4117647058823
+3,Independent House,4.0,0,0,Municipal Piped,621.6216216216217
+4,Independent House,4.0,1,0,Municipal Piped,1922.077922077922
+4,Apartment,4.0,0,0,Municipal Piped,488.0952380952381
+6,Independent House,3.0,1,0,Municipal Piped,614.4578313253012
+5,Independent House,2.0,0,0,Municipal Piped,1430.379746835443
+5,Independent House,4.0,1,0,Municipal Piped,716.2162162162163
+9,Independent House,4.0,0,0,Municipal Piped,684.931506849315
+5,Independent House,4.0,0,0,Municipal Piped,750.0
+4,Independent House,4.0,0,0,Municipal Piped,486.4864864864865
+5,Independent House,4.0,0,0,Municipal Piped,369.5652173913044
+11,Independent House,4.0,0,0,Municipal Piped,747.1264367816092
+3,Independent House,5.0,0,0,Municipal Piped,432.43243243243245
+4,Independent House,3.0,0,0,Municipal Piped,740.2597402597403
+2,Independent House,3.0,0,0,Municipal Piped,671.2328767123288
+4,Independent House,3.0,0,0,Municipal Piped,890.4109589041096
+5,Independent House,2.0,0,0,Municipal Piped,328.7671232876712
+9,Independent House,4.0,0,0,Municipal Piped,1465.7534246575342
+8,Independent House,4.0,0,0,Tanker Supplemental,519.4805194805194
+5,Independent House,4.0,1,0,Municipal Piped,360.82474226804123
+4,Apartment,3.0,1,0,Municipal Piped,1077.7777777777778
+12,Independent House,4.0,0,0,Municipal Piped,425.28735632183907
+4,Independent House,2.0,0,0,Municipal Piped,590.3614457831326
+2,Independent House,3.0,1,0,Municipal Piped,680.0
+9,Independent House,8.0,0,0,Tanker Supplemental,821.917808219178
+4,Independent House,3.0,1,0,Municipal Piped,733.3333333333334
+9,Independent House,4.0,1,0,Municipal Piped,1714.2857142857142
+6,Independent House,2.0,0,0,Municipal Piped,445.6521739130435
+3,Independent House,3.0,0,0,Municipal Piped,2015.625
+4,Independent House,4.0,0,0,Tanker Supplemental,857.1428571428571
+6,Independent House,3.0,0,0,Municipal Piped,810.8108108108108
+2,Apartment,3.0,0,0,Municipal Piped,51.282051282051285
+6,Independent House,4.0,1,0,Municipal Piped,825.5813953488372
+6,Independent House,6.0,0,1,Municipal Piped,1375.0
+4,Independent House,4.0,0,0,Municipal Piped,520.5479452054794
+6,Independent House,3.0,1,0,Municipal Piped,1108.433734939759
+3,Independent House,1.0,0,0,Municipal Piped,490.38461538461536
+7,Independent House,5.0,1,0,Municipal Piped,1116.8831168831168
+2,Apartment,4.0,0,0,Municipal Piped,521.3675213675214
+5,Independent House,4.0,0,0,Municipal Piped,1027.3972602739725
+5,Independent House,4.0,0,0,Municipal Piped,972.972972972973
+4,Independent House,2.0,0,0,Municipal Piped,275.51020408163265
+5,Independent House,2.0,0,0,Municipal Piped,345.679012345679
+10,Independent House,6.0,0,0,Municipal Piped,774.1935483870968
+4,Independent House,3.0,0,0,Municipal Piped,698.6301369863014
+4,Independent House,3.0,1,0,Municipal Piped,1030.3030303030303
+1,Independent House,3.0,0,0,Municipal Piped,702.7027027027027
+8,Independent House,4.0,0,0,Municipal Piped,519.6078431372549
+4,Apartment,3.0,0,0,Municipal Piped,478.72340425531917
+4,Independent House,1.0,0,0,Municipal Piped,1313.2530120481927
+4,Independent House,2.0,0,0,Municipal Piped,805.1948051948052
+7,Independent House,5.0,1,0,Municipal Piped,824.7422680412371
+6,Independent House,4.0,0,0,Municipal Piped,1698.6301369863013
+6,Independent House,3.0,0,0,Municipal Piped,686.7469879518072
+4,Independent House,3.0,1,0,Municipal Piped,1365.8536585365853
+4,Apartment,3.0,0,0,Municipal Piped,602.5641025641025
+9,Apartment,5.0,1,0,Municipal Piped,1175.6756756756756
+8,Independent House,4.0,1,0,Municipal Piped,554.0540540540541
+4,Independent House,2.0,0,0,Municipal Piped,1034.4827586206898
+3,Independent House,3.0,0,0,Municipal Piped,342.4657534246575
+4,Independent House,3.0,1,0,Municipal Piped,400.0
+5,Independent House,5.0,1,1,Tanker Supplemental,2068.4931506849316
+5,Independent House,4.0,0,0,Municipal Piped,522.2222222222222
+8,Independent House,3.0,1,0,Municipal Piped,1240.0
+4,Independent House,2.0,0,0,Municipal Piped,988.3720930232558
+6,Independent House,6.0,1,0,Municipal Piped,2164.5569620253164
+7,Independent House,4.0,0,0,Municipal Piped,1195.121951219512
+5,Independent House,3.0,1,0,Municipal Piped,803.7383177570093
+4,Apartment,3.0,1,0,Municipal Piped,1477.7777777777778
+3,Independent House,2.0,0,0,Municipal Piped,604.9382716049382
+5,Independent House,4.0,0,0,Municipal Piped,837.8378378378378
+2,Apartment,2.0,0,0,Municipal Piped,1328.358208955224
+3,Independent House,4.0,0,0,Municipal Piped,405.4054054054054
+1,Independent House,1.0,0,0,Municipal Piped,530.1204819277109
+4,Independent House,4.0,0,0,Municipal Piped,821.917808219178
+6,Independent House,4.0,0,1,Municipal Piped,750.0
+4,Independent House,4.0,0,0,Municipal Piped,2311.688311688312
+6,Independent House,4.0,0,0,Municipal Piped,827.5862068965517
+5,Independent House,3.0,1,0,Municipal Piped,1705.8823529411766
+6,Independent House,4.0,0,0,Municipal Piped,1306.1224489795918
+8,Independent House,10.0,1,0,Municipal Piped,1432.8358208955224
+3,Independent House,1.0,0,0,Municipal Piped,823.0088495575221
+4,Independent House,6.0,0,0,Tanker Supplemental,547.945205479452
+4,Independent House,4.0,0,0,Municipal Piped,746.031746031746
+5,Independent House,4.0,1,0,Municipal Piped,1337.3493975903614
+2,Independent House,2.0,0,0,Municipal Piped,80.0
+3,Independent House,2.0,0,0,Municipal Piped,361.4457831325301
+4,Independent House,1.0,0,0,Municipal Piped,867.4698795180723
+1,Independent House,3.0,0,0,Municipal Piped,258.92857142857144
+13,Independent House,11.0,0,0,Municipal Piped,1794.5205479452054
+4,Independent House,1.0,0,0,Municipal Piped,384.61538461538464
+6,Independent House,4.0,0,0,Municipal Piped,612.5
+5,Independent House,4.0,0,0,Municipal Piped,1108.433734939759
+4,Independent House,3.0,0,0,Municipal Piped,116.27906976744185
+5,Independent House,3.0,0,0,Municipal Piped,939.0243902439024
+4,Independent House,4.0,0,0,Municipal Piped,1220.9302325581396
+5,Independent House,5.0,1,0,Municipal Piped,228.0701754385965
+3,Independent House,2.0,0,0,Municipal Piped,536.5853658536586
+6,Independent House,1.0,0,0,Municipal Piped,750.0
+3,Independent House,2.0,0,0,Municipal Piped,383.56164383561645
+3,Independent House,2.0,0,0,Municipal Piped,1121.9512195121952
+5,Independent House,5.0,1,0,Municipal Piped,538.4615384615385
+3,Independent House,3.0,1,0,Municipal Piped,3021.7391304347825
+2,Independent House,5.0,0,0,Municipal Piped,397.26027397260276
+2,Independent House,4.0,1,0,Municipal Piped,456.7901234567901
+4,Independent House,3.0,1,0,Municipal Piped,1156.5217391304348
+6,Independent House,3.0,0,0,Municipal Piped,547.945205479452
+4,Independent House,3.0,0,0,Municipal Piped,1082.1917808219177
+8,Independent House,4.0,0,0,Municipal Piped,1176.4705882352941
+4,Independent House,3.0,1,0,Municipal Piped,1066.6666666666667
+4,Independent House,1.0,0,0,Municipal Piped,457.8313253012048
+5,Independent House,8.0,0,0,Tanker Supplemental,876.7123287671233
+4,Independent House,4.0,1,1,Municipal Piped,1608.1081081081081
+5,Apartment,4.0,0,0,Municipal Piped,358.97435897435895
+6,Independent House,2.0,0,0,Municipal Piped,674.6987951807229
+5,Apartment,3.0,0,0,Municipal Piped,433.0357142857143
+4,Independent House,3.0,1,0,Municipal Piped,763.1578947368421
+4,Independent House,6.0,0,0,Municipal Piped,1337.837837837838
+4,Independent House,3.0,0,0,Municipal Piped,888.8888888888889
+4,Independent House,3.0,0,0,Municipal Piped,922.3300970873786
+6,Independent House,3.0,0,0,Municipal Piped,1046.5116279069769
+4,Independent House,3.0,1,0,Municipal Piped,1364.8648648648648
+5,Independent House,4.0,0,0,Municipal Piped,472.97297297297297
+6,Independent House,4.0,0,0,Municipal Piped,512.8205128205128
+4,Independent House,2.0,0,0,Municipal Piped,1095.890410958904
+6,Independent House,4.0,1,0,Municipal Piped,1364.8648648648648
+2,Independent House,2.0,0,0,Municipal Piped,3120.4819277108436
+3,Independent House,4.0,0,1,Municipal Piped,203.88349514563106
+3,Independent House,3.0,0,0,Municipal Piped,540.5405405405405
+10,Independent House,1.0,0,0,Municipal Piped,1081.3953488372092
+6,Independent House,4.0,0,0,Municipal Piped,416.6666666666667
+5,Independent House,3.0,1,0,Municipal Piped,2307.6923076923076
+4,Independent House,4.0,1,0,Municipal Piped,526.3157894736842
+5,Independent House,4.0,0,0,Municipal Piped,465.75342465753425
+4,Independent House,3.0,0,0,Municipal Piped,476.1904761904762
+5,Independent House,2.0,0,0,Municipal Piped,760.8695652173913
+4,Independent House,3.0,1,0,Municipal Piped,3126.5822784810125
+6,Independent House,7.0,1,0,Municipal Piped,964.2857142857143
+6,Independent House,2.0,0,0,Municipal Piped,958.9041095890411
+7,Independent House,4.0,0,0,Municipal Piped,540.5405405405405
+4,Independent House,3.0,0,0,Municipal Piped,746.9879518072289
+5,Independent House,6.0,0,0,Tanker Supplemental,616.4383561643835
+6,Independent House,3.0,0,0,Municipal Piped,1961.0389610389611
+5,Independent House,8.0,1,0,Municipal Piped,1853.658536585366
+4,Independent House,2.0,0,0,Municipal Piped,1341.4634146341464
+4,Apartment,3.0,0,1,Municipal Piped,701.9969278033794
+4,Apartment,3.0,0,0,Municipal Piped,2820.224719101124
+5,Independent House,4.0,0,0,Municipal Piped,561.6438356164383
+3,Independent House,3.0,0,0,Municipal Piped,1129.8701298701299
+4,Apartment,4.0,0,0,Municipal Piped,783.7837837837837
+5,Independent House,3.0,0,0,Municipal Piped,746.8354430379746
+8,Independent House,3.0,1,0,Municipal Piped,791.044776119403
+7,Independent House,4.0,0,0,Municipal Piped,712.3287671232877
+5,Independent House,2.0,0,0,Municipal Piped,556.9620253164557
+4,Apartment,4.0,1,1,Municipal Piped,750.0
+6,Independent House,4.0,0,0,Municipal Piped,1445.945945945946
+7,Independent House,4.0,0,0,Municipal Piped,689.1891891891892
+8,Independent House,6.0,0,0,Municipal Piped,986.3013698630137
+4,Independent House,4.0,1,0,Municipal Piped,425.0
+11,Apartment,8.0,0,0,Municipal Piped,433.0357142857143
+4,Independent House,2.0,0,0,Municipal Piped,520.5479452054794
+8,Independent House,6.0,0,0,Tanker Supplemental,589.0410958904109
+4,Independent House,3.0,0,0,Municipal Piped,630.1369863013699
+4,Independent House,2.0,0,0,Municipal Piped,617.6470588235294
+8,Independent House,3.0,0,0,Municipal Piped,1397.4358974358975
+6,Independent House,5.0,0,0,Municipal Piped,679.0123456790124
+4,Independent House,4.0,0,0,Municipal Piped,712.3287671232877
+4,Apartment,4.0,0,0,Municipal Piped,378.3783783783784
+5,Independent House,4.0,0,0,Municipal Piped,810.8108108108108
+4,Apartment,3.0,0,0,Municipal Piped,265.4867256637168
+4,Independent House,4.0,0,0,Municipal Piped,1000.0
+4,Apartment,3.0,0,0,Municipal Piped,591.3978494623656
+4,Independent House,4.0,1,0,Municipal Piped,540.2298850574713
+10,Independent House,6.0,0,0,Municipal Piped,2082.1917808219177
+15,Independent House,4.0,0,0,Municipal Piped,1128.2051282051282
+5,Independent House,4.0,0,0,Municipal Piped,977.0114942528736
+5,Independent House,4.0,0,0,Municipal Piped,479.45205479452056
+6,Independent House,4.0,0,0,Municipal Piped,566.2650602409639
+6,Independent House,2.0,1,0,Municipal Piped,716.0493827160494
+3,Independent House,3.0,0,1,Municipal Piped,441.5584415584416
+6,Independent House,4.0,0,0,Municipal Piped,1465.7534246575342
+3,Independent House,3.0,0,0,Municipal Piped,638.5542168674699
+3,Independent House,2.0,1,0,Municipal Piped,750.0
+6,Independent House,6.0,1,0,Municipal Piped,750.0
+5,Independent House,4.0,0,0,Municipal Piped,651.3761467889908
+8,Independent House,4.0,0,0,Municipal Piped,843.3734939759037
+4,Independent House,4.0,0,0,Municipal Piped,746.9879518072289
+4,Independent House,3.0,0,0,Municipal Piped,722.8915662650602
+4,Independent House,3.0,1,0,Municipal Piped,975.609756097561
+4,Independent House,4.0,0,0,Municipal Piped,756.7567567567568
+5,Independent House,2.0,0,0,Municipal Piped,746.031746031746
+12,Independent House,3.0,0,0,Municipal Piped,623.8532110091743
+4,Independent House,4.0,0,0,Municipal Piped,1041.0958904109589
+4,Independent House,2.0,1,0,Municipal Piped,804.8780487804878
+3,Independent House,5.0,0,0,Municipal Piped,567.5675675675676
+4,Independent House,4.0,0,0,Municipal Piped,750.0
+10,Independent House,8.0,0,0,Municipal Piped,1337.837837837838
+3,Independent House,4.0,1,0,Municipal Piped,887.5
+4,Apartment,3.0,1,0,Municipal Piped,692.3076923076923
+2,Independent House,2.0,0,0,Municipal Piped,917.8082191780821
+5,Independent House,2.0,1,0,Municipal Piped,986.6666666666666
+7,Independent House,4.0,0,0,Municipal Piped,1379.746835443038
+6,Independent House,2.0,0,0,Municipal Piped,1024.0963855421687
+2,Apartment,1.0,0,0,Municipal Piped,377.31481481481484
+3,Independent House,3.0,0,0,Municipal Piped,621.6216216216217
+5,Independent House,3.0,0,0,Municipal Piped,253.0120481927711
+8,Independent House,6.0,0,0,Tanker Supplemental,857.1428571428571

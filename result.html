@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Estimation Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Household Water Demand Analysis</h1>
+            <p>Model: <strong>{{ metadata.model_name }}</strong></p>
+        </header>
+        <div class="kpi-grid">
+            <div class="kpi-card"><span class="kpi-title">Daily Demand</span><span class="kpi-value">{{ daily_litres }}</span><span class="kpi-unit">L / Day</span></div>
+            <div class="kpi-card"><span class="kpi-title">Monthly Demand</span><span class="kpi-value">{{ monthly_litres }}</span><span class="kpi-unit">L / Month</span></div>
+            <div class="kpi-card highlight"><span class="kpi-title">Per-Capita Demand</span><span class="kpi-value">{{ per_capita }}</span><span class="kpi-unit">L / Person / Day</span></div>
+        </div>
+        <section class="card">
+            <h2>Reference Benchmark (MoHUA: 135 LPCD)</h2>
+            <div class="benchmark-pill {{ 'above' if benchmark.status == 'Above Benchmark' else 'within' }}">
+                {{ benchmark.status }} ({{ '+' if benchmark.difference > 0 else '' }}{{ benchmark.difference }} L/person)
+            </div>
+        </section>
+        <section class="card">
+            <h2>Water-Saving Scenarios</h2>
+            <table class="scenario-table">
+                <thead><tr><th>Scenario</th><th>Daily Target</th><th>Daily Savings</th><th>Monthly Savings</th></tr></thead>
+                <tbody>
+                    <tr><td>5% Reduction</td><td>{{ scenarios['5%'].target_daily }} L</td><td>+{{ scenarios['5%'].daily_saved }} L</td><td>+{{ scenarios['5%'].monthly_saved }} L</td></tr>
+                    <tr><td>10% Reduction</td><td>{{ scenarios['10%'].target_daily }} L</td><td>+{{ scenarios['10%'].daily_saved }} L</td><td>+{{ scenarios['10%'].monthly_saved }} L</td></tr>
+                    <tr><td>15% Reduction</td><td>{{ scenarios['15%'].target_daily }} L</td><td>+{{ scenarios['15%'].daily_saved }} L</td><td>+{{ scenarios['15%'].monthly_saved }} L</td></tr>
+                </tbody>
+            </table>
+        </section>
+        <section class="card">
+            <h2>Personalized Recommendations</h2>
+            <ul>{% for tip in recommendations %}<li>{{ tip }}</li>{% endfor %}</ul>
+        </section>
+        <div class="actions"><a href="/" class="btn-secondary">← Recalculate</a></div>
+    </div>
+</body>
+</html>

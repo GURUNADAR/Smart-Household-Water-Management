@@ -1,0 +1,21 @@
+body { font-family: sans-serif; background: #f0fdfa; color: #0f172a; padding: 20px; }
+.container { max-width: 800px; margin: auto; }
+.header { text-align: center; margin-bottom: 20px; }
+.badge { display: inline-block; background: #e0f2fe; color: #0369a1; padding: 4px 10px; border-radius: 20px; font-weight: bold; }
+.main-card, .card { background: white; border-radius: 10px; padding: 20px; margin-bottom: 20px; border: 1px solid #e2e8f0; }
+.form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+.form-group { display: flex; flex-direction: column; }
+.form-group input, .form-group select { padding: 8px; border: 1px solid #ccc; border-radius: 5px; }
+.form-actions { grid-column: span 2; margin-top: 10px; }
+.btn-primary { width: 100%; background: #0284c7; color: white; padding: 10px; border: none; border-radius: 5px; font-size: 1rem; cursor: pointer; }
+.btn-secondary { display: inline-block; background: #e2e8f0; color: #334155; padding: 8px 15px; border-radius: 5px; text-decoration: none; }
+.kpi-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 20px; }
+.kpi-card { background: white; border: 1px solid #e2e8f0; border-radius: 10px; padding: 15px; text-align: center; }
+.kpi-card.highlight { border-top: 4px solid #0d9488; }
+.kpi-title { font-size: 0.8rem; color: #64748b; }
+.kpi-value { font-size: 1.8rem; font-weight: bold; color: #0284c7; display: block; }
+.benchmark-pill { display: inline-block; padding: 8px 12px; border-radius: 6px; font-weight: bold; }
+.benchmark-pill.within { background: #dcfce7; color: #15803d; }
+.benchmark-pill.above { background: #fef3c7; color: #b45309; }
+.scenario-table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+.scenario-table th, .scenario-table td { padding: 8px; border-bottom: 1px solid #eee; text-align: left; }

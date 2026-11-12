@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Household Water Demand Estimator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Smart Household Water Management</h1>
+        </header>
+        <main class="main-card">
+            <form action="/predict" method="POST" class="form-grid">
+                <div class="form-group">
+                    <label>Household Members</label>
+                    <input type="number" name="household_size" min="1" max="15" required>
+                </div>
+                <div class="form-group">
+                    <label>Dwelling Architecture</label>
+                    <select name="dwelling_type">
+                        <option value="Apartment">Apartment / Flat</option>
+                        <option value="Independent House" selected>Independent House</option>
+                        <option value="Row House">Row House</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Total Rooms</label>
+                    <input type="number" name="rooms" min="1" max="10" required>
+                </div>
+                <div class="form-group">
+                    <label>Washing Machine Presence</label>
+                    <select name="washing_machine">
+                        <option value="1" selected>Yes</option>
+                        <option value="0">No</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Garden / Outdoor Plants</label>
+                    <select name="garden">
+                        <option value="0" selected>No</option>
+                        <option value="1">Yes</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Primary Water Source</label>
+                    <select name="water_source">
+                        <option value="Municipal Piped" selected>Municipal Piped Connection</option>
+                        <option value="Tanker Supplemental">Private / Tanker Water</option>
+                    </select>
+                </div>
+                <div class="form-actions">
+                    <button type="submit" class="btn-primary">Estimate Water Demand</button>
+                </div>
+            </form>
+        </main>
+    </div>
+</body>
+</html>
